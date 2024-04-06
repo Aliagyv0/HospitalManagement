@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\HomeTask\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\net7.0\HospitalManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\HomeTask\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\net7.0\HospitalManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\HomeTask\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\net7.0\HospitalManagmentSystem.AssemblyInfo.cs
+C:\Users\hp\Desktop\HomeTask\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\net7.0\HospitalManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\HomeTask\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\net7.0\HospitalManagmentSystem.exe
+C:\Users\hp\Desktop\HomeTask\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\net7.0\HospitalManagmentSystem.deps.json
+C:\Users\hp\Desktop\HomeTask\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\net7.0\HospitalManagmentSystem.runtimeconfig.json
+C:\Users\hp\Desktop\HomeTask\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\net7.0\HospitalManagmentSystem.dll
+C:\Users\hp\Desktop\HomeTask\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\net7.0\HospitalManagmentSystem.pdb
+C:\Users\hp\Desktop\HomeTask\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\net7.0\HospitalManagmentSystem.dll
+C:\Users\hp\Desktop\HomeTask\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\net7.0\refint\HospitalManagmentSystem.dll
+C:\Users\hp\Desktop\HomeTask\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\net7.0\HospitalManagmentSystem.pdb
+C:\Users\hp\Desktop\HomeTask\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\net7.0\HospitalManagmentSystem.genruntimeconfig.cache
+C:\Users\hp\Desktop\HomeTask\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\net7.0\ref\HospitalManagmentSystem.dll
